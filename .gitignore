@@ -234,3 +234,9 @@ installer/install.bat
 installer/install.sh
 installer/update.bat
 installer/update.sh
+
+# auto-generated when running
+models
+configs
+databases
+invokeai.yaml
